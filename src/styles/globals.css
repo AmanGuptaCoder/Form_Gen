@@ -1,0 +1,5 @@
+body {
+  height: 100vh;
+  background-color: hsl(0, 0%, 100%);
+  padding: 0 32px;
+}
